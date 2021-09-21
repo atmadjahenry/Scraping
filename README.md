@@ -1,1 +1,1 @@
-# Scraping
+# Scraping from detik.com
